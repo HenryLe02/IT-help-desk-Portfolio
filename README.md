@@ -174,8 +174,6 @@ GitHub
 
 ## 🎯 Career Goal
 
-🎯 Career Objective
-
 Seeking an entry-level IT Support or Service Desk role where I can apply my technical skills, continue learning, and contribute to delivering reliable IT services.
 
 ---
