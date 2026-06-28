@@ -127,7 +127,7 @@ Designed and configured a basic networking lab using Cisco Packet Tracer to prac
 
 ---
 
-### ⚡ PowerShell Fundamentals Lab
+### ⚡ PowerShell IT Support Toolkit
 
 **Overview:**  
 Created a PowerShell project to practise basic scripting and automation tasks used in IT support environments.
