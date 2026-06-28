@@ -150,34 +150,25 @@ Created a PowerShell project to practise basic scripting and automation tasks us
 
 ## 🛠 Technical Skills
 
-### Microsoft
-
-Microsoft 365 • Intune • Entra ID • Active Directory
+### Microsoft Technologies
+Microsoft 365 • Microsoft Intune • Microsoft Entra ID • Active Directory
 
 ### Operating Systems
-
-Windows 10
-Windows 11
-Windows Server 2022
+Windows 10 • Windows 11 • Windows Server 2022
 
 ### Networking
-
-TCP/IP
-DNS
-DHCP
-Cisco Packet Tracer
+TCP/IP • DNS • DHCP • Cisco Packet Tracer
 
 ### IT Service Management
+ITIL 4 • Incident Management • Problem Management • Service Request Management • Jira Service Management
 
-ITIL 4
-Incident Management
-Problem Management
-Jira Service Management
+### Virtualization
+Oracle VirtualBox
 
-### Tools
-
+### Scripting
 PowerShell
-Hyper-V
+
+### Version Control
 GitHub
 
 ---
