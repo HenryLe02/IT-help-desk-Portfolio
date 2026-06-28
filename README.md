@@ -18,8 +18,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 I am an aspiring IT Support professional based in Melbourne, Australia, with a strong interest in Microsoft technologies, endpoint management, IT service management, and cybersecurity.
 
 To prepare for my first IT role, I have built hands-on home lab projects covering Active Directory, Microsoft Intune, Windows Server, Networking, PowerShell, and Jira Service Management. These projects have strengthened my practical skills in troubleshooting, user and device management, system administration, and IT support workflows.
