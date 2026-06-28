@@ -1,4 +1,4 @@
-# IT-help-desk-Portfolio
+# IT-Support-Portfolio
 <div align="center">
 
 # 👋 Hi, I'm Henry LE
