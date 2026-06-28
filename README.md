@@ -148,121 +148,55 @@ Created a PowerShell project to practise basic scripting and automation tasks us
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
+
+### Microsoft
+
+Microsoft 365 • Intune • Entra ID • Active Directory
 
 ### Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-- Windows 10
-- Windows 11
-- Windows Server
-
----
-
-### Microsoft Technologies
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- Microsoft 365
-- Microsoft Intune
-- Microsoft Entra ID
-- Active Directory
-- Group Policy
-- Endpoint Management
-- Device Compliance
-- Application Deployment
-
----
+Windows 10
+Windows 11
+Windows Server 2022
 
 ### Networking
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-- TCP/IP
-- DNS
-- DHCP
-- Static IP configuration
-- Basic routing and switching
-- Network troubleshooting
-
----
+TCP/IP
+DNS
+DHCP
+Cisco Packet Tracer
 
 ### IT Service Management
 
-![ITIL](https://img.shields.io/badge/ITIL%204-6F2DA8?style=for-the-badge)
+ITIL 4
+Incident Management
+Problem Management
+Jira Service Management
 
-- ITIL 4 Foundation
-- Incident Management
-- Service Request Management
-- Problem Management
-- Change Enablement
-- Service Level Management
-- Continual Improvement
-- Jira Service Management
+### Tools
 
----
-
-### Scripting and Tools
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- PowerShell
-- GitHub
-- Hyper-V
-- Cisco Packet Tracer
-- Jira Service Management
-- Remote Support Concepts
+PowerShell
+Hyper-V
+GitHub
 
 ---
 
-## 📂 Project Summary
-
-| Project | Main Focus | Tools |
-|---|---|---|
-| Active Directory Home Lab | User, group, GPO, permissions | Windows Server, AD DS, GPMC |
-| Microsoft Intune Lab | Endpoint management | Intune, Entra ID, Microsoft 365 |
-| Jira ITIL Lab | Ticketing and ITSM | Jira Service Management |
-| Networking Lab | Networking fundamentals | Cisco Packet Tracer |
-| PowerShell Lab | Basic automation | PowerShell, Windows |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryLe02&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryLe02&layout=compact&theme=default)
-
-</div>
-
----
 
 ## 🎯 Career Goal
 
-I am currently focused on securing my first role in:
+🎯 Career Objective
 
-- IT Support
-- Service Desk Analyst
-- Help Desk Support
-- Desktop Support
-- Junior Endpoint Support
-
-I am continuing to build practical skills in Microsoft 365, Active Directory, Windows Server, endpoint management, networking, and IT service management.
+Seeking an entry-level IT Support or Service Desk role where I can apply my technical skills, continue learning, and contribute to delivering reliable IT services.
 
 ---
 
-## 📫 Contact
+## 📬 Let's Connect
 
 - **LinkedIn:** [Henry LE](https://www.linkedin.com/in/henry-le-733624308/)
 - **GitHub:** [HenryLe02](https://github.com/HenryLe02)
 - **Email:** henryle221002@gmail.com
+- **Melbourne, Australia**
 
 ---
 
