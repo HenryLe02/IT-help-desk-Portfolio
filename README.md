@@ -18,13 +18,17 @@
 
 ## 👨‍💻 About Me
 
-I am an aspiring IT Support professional based in Melbourne, Australia, with a strong interest in Microsoft technologies, endpoint management, IT service management, and cybersecurity fundamentals.
+## 👨‍💻 About Me
 
-To prepare for my first IT role, I have built hands-on home lab projects covering Active Directory, Microsoft Intune, Windows Server, Networking, PowerShell, and Jira Service Management.
+I am an aspiring IT Support professional based in Melbourne, Australia, with a strong interest in Microsoft technologies, endpoint management, IT service management, and cybersecurity.
 
-These projects helped me develop practical experience in troubleshooting, user and device management, system administration, ticket handling, and IT support workflows.
+To prepare for my first IT role, I have built hands-on home lab projects covering Active Directory, Microsoft Intune, Windows Server, Networking, PowerShell, and Jira Service Management. These projects have strengthened my practical skills in troubleshooting, user and device management, system administration, and IT support workflows.
 
-My goal is to begin my career in an IT Support or Service Desk role where I can apply my technical skills, continue learning, and contribute to delivering reliable IT services.
+I hold industry-recognized certifications including CompTIA A+, CompTIA Security+, Microsoft Certified: Endpoint Administrator Associate (MD-102), and ITIL® 4 Foundation.
+
+My goal is to begin my career in an IT Support or Service Desk role where I can continue learning, contribute to a collaborative team, and deliver reliable IT services.
+
+> **Note:** I am professionally known as **Henry LE**. My legal name, which appears on my certifications, is **Khac Viet Hoang Le**.
 
 ---
 
