@@ -83,7 +83,7 @@ Created a Microsoft Intune lab based on MD-102 concepts, focusing on endpoint ma
 - Remote device management
 
 **Project Link:**  
-[View Microsoft Intune Lab](https://github.com/HenryLe02)
+[View Microsoft Intune Lab](https://github.com/HenryLe02/Microsoft-Intune-Endpoint-Management-Lab)
 
 ---
 
@@ -144,7 +144,7 @@ Created a PowerShell project to practise basic scripting and automation tasks us
 - Documentation
 
 **Project Link:**  
-[View PowerShell Fundamentals Lab](https://github.com/HenryLe02)
+[View PowerShell IT Support Toolkit](https://github.com/HenryLe02/PowerShell-IT-Support-Toolkit)
 
 ---
 
